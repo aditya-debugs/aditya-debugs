@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Agrahari
 
-<img src="Banner-%20LinkedIn.png" alt="Aditya Agrahari Banner" width="100%" />
+<img src="Banner-%20LinkedIn.svg" alt="Aditya Agrahari Banner" width="100%" />
 
 Aspiring Computer Engineer with a strong foundation in **Full Stack Web & Mobile Development**, specializing in technologies like **React, Node.js, MongoDB, Flutter, Java**, and **FastAPI**. I enjoy creating real-world applications with clean UI/UX, scalable backends, and AI-powered features using LLMs like Mistral. Currently pursuing my **B.E. in Computer Science at VESIT**, I’m driven by a passion for solving meaningful problems — from hackathon prototypes to production-ready apps. I'm also actively contributing to AI-driven projects like **UdyogMitra**, building APIs, designing user flows, and collaborating in cross-functional teams.
 
