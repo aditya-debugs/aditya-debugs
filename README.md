@@ -2,18 +2,18 @@
 
 <img src="Banner-%20LinkedIn.svg" alt="Aditya Agrahari Banner" width="100%" />
 
-A Computer Science student and passionate **Full Stack Developer** exploring the power of **Web**, **Mobile**, and **AI** technologies.  
-With a deep interest in building real-world solutions, I love crafting end-to-end applications — from clean UIs to powerful backends.  
-Currently diving into **Flutter**, **Node.js**, **MERN stack**, and experimenting with **AI, LLMs**, and cloud platforms like **AWS**.
+Aspiring Computer Engineer with a strong foundation in **Full Stack Web & Mobile Development**, specializing in technologies like **React, Node.js, MongoDB, Flutter, Java**, and **FastAPI**. I enjoy creating real-world applications with clean UI/UX, scalable backends, and AI-powered features using LLMs like Mistral. Currently pursuing my **B.E. in Computer Science at VESIT**, I’m driven by a passion for solving meaningful problems — from hackathon prototypes to production-ready apps. I'm also actively contributing to AI-driven projects like **UdyogMitra**, building APIs, designing user flows, and collaborating in cross-functional teams.
 
 ---
 
 ### 🌟 What I Do:
-- 🌐 Build full-stack web apps using **MERN stack**
-- 📱 Develop cross-platform apps using **Flutter**
-- 🧠 Tackle DSA, system design, and AI problems
-- 🤝 Collaborate in teams, lead hackathon and startup projects
-- 🎯 Continuously exploring new technologies and launching products
+- 🌐 Develop full-stack web apps using **MERN** Stack
+- 📱 Build cross-platform mobile apps with **Flutter & Dart**
+- 🧠 Integrate AI/LLM pipelines into real-world projects using **FastAPI & Mistral**
+- 🛠️ Design & consume **RESTful APIs**, implement secure auth flows, and manage cloud integrations
+- 🎨 Craft clean, responsive **UI/UX** using **Tailwind, React, Figma, and Bootstrap**
+- 👥 Collaborate in team-based projects, mentor peers, and lead end-to-end development cycles
+- 🚀 Participate in hackathons, explore new tech domains, and ship impactful products
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_agrahari_7)
