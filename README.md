@@ -73,10 +73,10 @@ Currently diving into **Flutter**, **Node.js**, **MERN stack**, and experimentin
 ![](https://github-profile-trophy.vercel.app/?username=aditya-debugs&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aditya-debugs/aditya-debugs/steve-jobs-quote-dark.png" alt="Steve Jobs Quote" width="80%" />
+<div >
+  <img src="https://raw.githubusercontent.com/aditya-debugs/aditya-debugs/main/steve-jobs-quote-dark.png" alt="Steve Jobs Quote" width="80%" />
+  
 </div>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aditya-debugs&limit=5&theme=dark&combine_all_yearly_contributions=true)
