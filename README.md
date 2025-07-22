@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Agrahari
 
-<img src="Banner-%20LinkedIn.png" alt="Aditya Agrahari Banner" width="100%" />
+<img src="Banner-%20LinkedIn.svg" alt="Aditya Agrahari Banner" width="100%" />
 
 A Computer Science student and passionate **Full Stack Developer** exploring the power of **Web**, **Mobile**, and **AI** technologies.  
 With a deep interest in building real-world solutions, I love crafting end-to-end applications — from clean UIs to powerful backends.  
